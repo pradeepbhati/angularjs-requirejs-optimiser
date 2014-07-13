@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-requirejs-optimiser",
+  "version": "0.0.0",
+  "authors": [
+    "pradeepbhati <pradeep.bhati@gmail.com>"
+  ],
+  "description": "angular application for lazy loading modules and r.js optimization",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0",
+    "angular-route": "~1.2.0",
+    "requirejs": "~2.1.11",
+    "ocLazyLoad": "~0.0.3",
+    "angular-ui-router": "~0.2.10"
+  }
+}
